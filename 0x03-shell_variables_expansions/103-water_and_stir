@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $USER
+cat prueba | grep [1-8][b,e,h,l,n,o,r,t]
