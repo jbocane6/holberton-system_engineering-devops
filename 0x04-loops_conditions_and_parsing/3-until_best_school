@@ -2,6 +2,6 @@
 # This script displays "Holberton School" 10 times
 COUNTER=0
 until [ $COUNTER -ge 10 ]; do
-      echo Holberton School
+      echo Best School
       let COUNTER+=1
 done

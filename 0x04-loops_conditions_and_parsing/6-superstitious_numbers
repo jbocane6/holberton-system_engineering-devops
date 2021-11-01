@@ -3,6 +3,7 @@
 # "bad luck from Japan" on loop 9.
 # "bad luck from Italy on loop 17.
 # Also displays a counter from 1 to 20 on every line.
+
 COUNTER=1
 while [ $COUNTER -le 20 ]; do
     echo $COUNTER

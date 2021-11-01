@@ -2,7 +2,7 @@
 # This script displays Hi on 9th line, Holberton School every other line
 COUNTER=1
 while [ $COUNTER -le 10 ]; do
-    echo Holberton School
+    echo Best School
 
     if [ $COUNTER -eq 9 ]
     then
