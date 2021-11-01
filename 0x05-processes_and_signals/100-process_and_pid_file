@@ -1,25 +1,48 @@
 #!/usr/bin/env bash
 # This script:
-#   - Creates the file /var/run/holbertonscript.pid with the current PID.
+#   - Creates the file /var/run/myscript.pid with the current PID.
 #   - Prints "To infinity and beyond" indefinitely.
 #   - When passed a SIGTERM signal prints "I hate the kill command",
-#       removes the file /var/run/holbertonscript.pid and exits.
-#   - When passed a SIGQUIT signal removes the file /var/run/holbertonscript.pid
+#       removes the file /var/run/myscript.pid and exits.
+#   - When passed a SIGQUIT signal removes the file /var/run/myscript.pid
 #   - When passed a SIGINT signal prints "Y U no love me?!"
 
 function terminate()
 {
     echo "I hate the kill command"
-    rm /var/run/holbertonscript.pid
+    rm /var/run/myscript.pid
     exit
 }
 
 function quit()
 {
-    rm /var/run/holbertonscript.pid
+    rm /var/run/myscript.pid
 }
 
-pidof -s bash > /var/run/holbertonscript.pid
+pidof -s bash > /var/run/myscript.pid
+
+trap terminate SIGTERM
+trap quit SIGQUIT
+trap "echo Y U no love me?!" SIGINT
+
+while true
+do
+    echo "To infinity and beyond"
+    sleep 2
+done
+function terminate()
+{
+    echo "I hate the kill command"
+    rm /var/run/myscript.pid
+    exit
+}
+
+function quit()
+{
+    rm /var/run/myscript.pid
+}
+
+pidof -s bash > /var/run/myscript.pid
 
 trap terminate SIGTERM
 trap quit SIGQUIT
