@@ -2,7 +2,7 @@
 # This script gives information about the
 # "holbertonschool" file.
 
-file="holbertonschool"
+file="school"
 
 if [ -e $file ]
 then
