@@ -8,5 +8,5 @@ while [ $COUNTER -le 10 ]; do
     then
 	echo Hi
     fi
-    let COUNTER+=1
+    ((COUNTER+=1))
 done
