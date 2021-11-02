@@ -10,16 +10,16 @@
 function terminate()
 {
     echo "I hate the kill command"
-    rm /var/run/holbertonscript.pid
+    rm /var/run/myscript.pid
     exit
 }
 
 function quit()
 {
-    rm /var/run/holbertonscript.pid
+    rm /var/run/myscript.pid
 }
 
-pidof -s bash > /var/run/holbertonscript.pid
+pidof -s bash > /var/run/myscript.pid
 
 trap terminate SIGTERM
 trap quit SIGQUIT
