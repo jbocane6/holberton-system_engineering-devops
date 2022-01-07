@@ -1,1 +1,7 @@
 #!/usr/bin/env bash
+# Set up to redirect to other page
+sudo apt update
+sudo apt-get -y install nginx
+sudo echo "Hello World!" > /var/www/html/index.nginx-debian.html
+sudo sed -i '/listen 80 default_server/a \\trewrite ^/redirect_me github.com/jbocane6 permanent;' /etc/nginx/sites-available/default
+sudo service nginx restart
