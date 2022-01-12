@@ -7,14 +7,18 @@ file { '/var/www/html/index.nginx-debian.html':
   content => 'Hello World'
 }
 
-file_line { 'redirection-301':
-  ensure => 'present',
-  path   => '/etc/nginx/sites-available/default',
-  after  => 'server_name _;',
-  line   => '\trewrite ^/redirect_me github.com/jbocane6 permanent\n\terror_page 404 /error404.html;\nlocation =  /error404.html {\n\troot /var/www/html/;\n\tinternal;\n};\n\tadd_header X-Served-By "$HOSTNAME";'
+exec { 'modify-default':
+  command  => 'sudo sed -i "/server_name _;/a \\\n\\tadd_header X-Served-By $HOSTNAME;"\
+    /etc/nginx/sites-available/default;
+	       sudo sed -i "/add_header*/a \\\n\\trewrite ^/redirect_me http://www.github.com/jbocane6 permanent;"\
+    /etc/nginx/sites-available/default;
+	       sudo sed -i "/rewrite*/a \\\n\\terror_page 404 /404.html;\\n\\n\\tlocation = /404.html {\\n\\t\\tinternal;\\n\\t}"\
+    /etc/nginx/sites-available/default;',
+  provider => shell,
+  require  => Package['nginx']
 }
 
 service { 'nginx':
   ensure  => 'running',
-  require => Package['nginx']
+  require => Exec['modify-default']
 }
