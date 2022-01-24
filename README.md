@@ -28,5 +28,5 @@
   - [0x0D-web_stack_debugging_0](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0)
   - [0x0E-web_stack_debugging_1](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0E-web_stack_debugging_1)
   - [0x0F-load_balancer](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0F-load_balancer)
-  - [0x13-firewall](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x13-firewall
+  - [0x13-firewall](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x13-firewall)
   
