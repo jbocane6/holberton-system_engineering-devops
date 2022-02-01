@@ -30,4 +30,5 @@
   - [0x0F-load_balancer](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0F-load_balancer)
   - [0x13-firewall](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x13-firewall)
   - [0x14-mysql](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x14-mysql)
+  - [0x15-api](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x15-api)
   
