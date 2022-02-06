@@ -12,14 +12,3 @@
 ### 0x10-https_ssl
 
 Repositorio con evidencias reto 0x10
-
-sudo apt update
-sudo apt install wget -y
-wget https://dev.mysql.com/get/mysql-apt-config_0.8.12-1_all.deb
-sudo dpkg -i mysql-apt-config_0.8.12-1_all.deb
--> Bionic -> Mysql server y cluster -> 5.7 -> ok
-sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 467B942D3A79BD29
-sudo apt update
-sudo apt install -y mysql-community-server
-sudo mysql -u root -p 
-SELECT VERSION();
