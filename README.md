@@ -26,6 +26,7 @@
   - [0x13-firewall](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x13-firewall)
   - [0x14-mysql](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x14-mysql)
   - [0x15-api](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x15-api)
+  - [0x16-api_advanced](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x16-api_advanced)
   - [0x0A-configuration_management](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0A-configuration_management)
   - [0x0B-ssh](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0B-ssh)
   - [0x0C-web_server](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0C-web_server)
