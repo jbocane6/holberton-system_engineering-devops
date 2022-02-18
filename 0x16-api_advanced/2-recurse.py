@@ -12,7 +12,7 @@ Requirements:
         with just a subreddit supplied. AKA you can add a counter,
         but it must work without supplying a starting value in the main.
     If not a valid subreddit, return None.
-    Note: Invalid subreddits may return a redirect to search results. 
+    Note: Invalid subreddits may return a redirect to search results.
     Ensure that you are not following redirects.
     Your code will NOT pass if you are using a loop and
     not recursively calling the function! This /can/ be done with a loop
@@ -22,7 +22,10 @@ import requests
 
 
 def recurse(subreddit, hot_list=[]):
-    """Gets the top ten hot posts from a given subreddit"""
+    """
+    Queries the Reddit API and returns a list containing the titles
+        of all hot articles for a given subreddit.
+    """
     user_agent_str = ('Mozilla/5.0 (Windows NT 6.1; WOW64; rv:77.0)'
                       'Gecko/20190101 Firefox/77.0')
     user_ag = {'User-Agent': user_agent_str}
