@@ -28,11 +28,11 @@
   - [0x15-api](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x15-api)
   - [0x16-api_advanced](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x16-api_advanced)
   - [0x17-web_stack_debugging_3](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)
-  - [0x0A-configuration_management](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0A-configuration_management)
   - [0x18-webstack_monitoring](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x18-webstack_monitoring)
+  - [0x0A-configuration_management](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0A-configuration_management)
   - [0x0B-ssh](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0B-ssh)
   - [0x0C-web_server](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0C-web_server)
   - [0x0D-web_stack_debugging_0](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0)
   - [0x0E-web_stack_debugging_1](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0E-web_stack_debugging_1)
   - [0x0F-load_balancer](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x0F-load_balancer)
-  
+  - [0x1B-web_stack_debugging_4](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x1B-web_stack_debugging_4)
