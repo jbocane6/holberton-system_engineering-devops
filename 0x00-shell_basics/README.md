@@ -263,7 +263,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`1-listit`](/1-listit)
+*   File: [`1-listit`](1-listit)
 
 -----
 ### 2\. There is no place like home
@@ -290,7 +290,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`2-bring_me_home`](/2-bring_me_home)
+*   File: [`2-bring_me_home`](2-bring_me_home)
 
 -----
 ### 3\. The long format
@@ -314,7 +314,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`3-listfiles`](/3-listfiles)
+*   File: [`3-listfiles`](3-listfiles)
 
 -----
 ### 4\. Hidden files
@@ -341,7 +341,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`4-listmorefiles`](/4-listmorefiles)
+*   File: [`4-listmorefiles`](4-listmorefiles)
 
 -----
 ### 5\. I love numbers
@@ -373,7 +373,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`5-listfilesdigitonly`](/5-listfilesdigitonly)
+*   File: [`5-listfilesdigitonly`](5-listfilesdigitonly)
 
 -----
 ### 6\. Welcome
@@ -394,7 +394,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`6-firstdirectory`](/6-firstdirectory)
+*   File: [`6-firstdirectory`](6-firstdirectory)
 
 -----
 ### 7\. Betty in my first directory
@@ -415,7 +415,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`7-movethatfile`](/7-movethatfile)
+*   File: [`7-movethatfile`](7-movethatfile)
 
 -----
 ### 8\. Bye bye Betty
@@ -437,7 +437,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`8-firstdelete`](/8-firstdelete)
+*   File: [`8-firstdelete`](8-firstdelete)
 
 -----
 ### 9\. Bye bye My first directory
@@ -458,7 +458,7 @@ Example:
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`9-firstdirdeletion`](/9-firstdirdeletion)
+*   File: [`9-firstdirdeletion`](9-firstdirdeletion)
 
 -----
 ### 10\. Back to the future
@@ -482,7 +482,7 @@ Write a script that changes the working directory to the previous one.
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`10-back`](/10-back)
+*   File: [`10-back`](10-back)
 
 -----
 ### 11\. Lists
@@ -495,7 +495,7 @@ Write a script that lists all files (even ones with names beginning with a perio
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`11-lists`](/11-lists)
+*   File: [`11-lists`](11-lists)
 
 -----
 ### 12\. File type
@@ -516,7 +516,7 @@ Note that depending on the file, the output of your script will be different.
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`12-file_type`](/12-file_type)
+*   File: [`12-file_type`](12-file_type)
 
 -----
 ### 13\. We are symbols, and inhabit symbols
@@ -541,7 +541,7 @@ Create a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link should be
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`13-symbolic_link`](/13-symbolic_link)
+*   File: [`13-symbolic_link`](13-symbolic_link)
 
 -----
 ### 14\. Copy HTML files
@@ -556,7 +556,7 @@ You can consider that all HTML files have the extension `.html`
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`14-copy_html`](/14-copy_html)
+*   File: [`14-copy_html`](14-copy_html)
 
 -----
 ### 15\. Let’s move
@@ -598,7 +598,7 @@ You can assume that the directory `/tmp/u` will exist when we will run your scri
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`100-lets_move`](/100-lets_move)
+*   File: [`100-lets_move`](100-lets_move)
 
 -----
 ### 16\. Clean Emacs
@@ -619,7 +619,7 @@ Create a script that deletes all files in the current working directory that end
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`101-clean_emacs`](/101-clean_emacs)
+*   File: [`101-clean_emacs`](101-clean_emacs)
 
 -----
 ### 17\. Tree
@@ -654,7 +654,7 @@ You are only allowed to use two spaces (and lines) in your script, not more.
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`102-tree`](/102-tree)
+*   File: [`102-tree`](102-tree)
 
 -----
 ### 18\. Life is a series of commas, not periods
@@ -688,7 +688,7 @@ Write a command that lists all the files and directories of the current director
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`103-commas`](/103-commas)
+*   File: [`103-commas`](103-commas)
 
 -----
 ### 19\. File type: School
@@ -723,7 +723,7 @@ Create a magic file `school.mgc` that can be used with the command `file` to det
 
 *   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
 *   Directory: [`0x00-shell_basics`](https://github.com/jbocane6/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-*   File: [`school.mgc`](/school.mgc)
+*   File: [`school.mgc`](school.mgc)
 
 -----
 Copyright © 2022 Holberton Inc, All rights reserved.
