@@ -240,7 +240,7 @@ Example:
 
 **Repo:**
 
-*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   GitHub repository: [`holberton-system_engineering-devops`](/)
 *   Directory: [`0x00-shell_basics`](/0x00-shell_basics)
 *   File: [`0-current_working_directory`](0-current_working_directory)
 
