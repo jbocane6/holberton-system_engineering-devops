@@ -482,8 +482,6 @@ Starting `100-process_and_pid_file` in the terminal #0 and then killing it in th
 
 Advanced
 
-Score: 0% (Checks completed: 0%)
-
 ![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/9/37975393ead381f4d27f268f7337c6d3013b4991.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220417T024056Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4a849ee7ace772734afc7e8be020ea0061c7b32694bbbca2e626e83ee212cbca)
 
 Read:
