@@ -178,9 +178,9 @@ Requirements:
 Example:
 
     camilo@home-laptop$ camilo@home-laptop$ ./2-show_your_bash_pid
-    sylvain   4404  0.0  0.7  21432  4000 pts/0    Ss   03:32   0:00          \_ -bash
-    sylvain   4477  0.0  0.2  11120  1352 pts/0    S+   03:40   0:00              \_ bash ./2-show_your_bash_PID
-    sylvain   4479  0.0  0.1  10460   912 pts/0    S+   03:40   0:00                  \_ grep bash
+    camilo   4404  0.0  0.7  21432  4000 pts/0    Ss   03:32   0:00          \_ -bash
+    camilo   4477  0.0  0.2  11120  1352 pts/0    S+   03:40   0:00              \_ bash ./2-show_your_bash_PID
+    camilo   4479  0.0  0.1  10460   912 pts/0    S+   03:40   0:00                  \_ grep bash
     camilo@home-laptop$ 
     
 
@@ -611,12 +611,12 @@ Terminal #0
 Terminal #1
 
     camilo@home-laptop$ ps aux | grep -e 'Z+.*<defunct>'
-    sylvain  13527  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
-    sylvain  13528  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
-    sylvain  13529  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
-    sylvain  13530  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
-    sylvain  13531  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
-    sylvain  13533  0.0  0.1  10460   964 pts/2    S+   01:19   0:00 grep --color=auto -e Z+.*<defunct>
+    camilo  13527  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
+    camilo  13528  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
+    camilo  13529  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
+    camilo  13530  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
+    camilo  13531  0.0  0.0      0     0 pts/0    Z+   01:19   0:00 [zombie] <defunct>
+    camilo  13533  0.0  0.1  10460   964 pts/2    S+   01:19   0:00 grep --color=auto -e Z+.*<defunct>
     camilo@home-laptop$ 
     
 
