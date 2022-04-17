@@ -121,9 +121,9 @@ SSH and RSA keys will be covered in depth in a later project.
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `0-RSA_public_key.pub`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`0-RSA_public_key.pub`](0-RSA_public_key.pub)
 
 -----
 ### 1\. For Best School loop
@@ -138,10 +138,10 @@ Requirement:
 
 Example:
 
-    sylvain@ubuntu$ head -n 2 1-for_best_school 
+    camilo@home-laptop$ head -n 2 1-for_best_school 
     #!/usr/bin/env bash
     # This script is displaying "Best School" 10 times
-    sylvain@ubuntu$ ./1-for_best_school 
+    camilo@home-laptop$ ./1-for_best_school 
     Best School
     Best School
     Best School
@@ -152,7 +152,7 @@ Example:
     Best School
     Best School
     Best School
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 Note that:
@@ -162,9 +162,9 @@ Note that:
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `1-for_best_school`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`1-for_best_school`](1-for_best_school)
 
 -----
 ### 2\. While Best School loop
@@ -179,7 +179,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./2-while_best_school
+    camilo@home-laptop$ ./2-while_best_school
     Best School
     Best School
     Best School
@@ -190,14 +190,14 @@ Example:
     Best School
     Best School
     Best School
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `2-while_best_school`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`2-while_best_school`](2-while_best_school)
 
 -----
 ### 3\. Until Best School loop
@@ -212,7 +212,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./3-until_best_school
+    camilo@home-laptop$ ./3-until_best_school
     Best School
     Best School
     Best School
@@ -223,14 +223,14 @@ Example:
     Best School
     Best School
     Best School
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `3-until_best_school`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`3-until_best_school`](3-until_best_school)
 
 -----
 ### 4\. If 9, say Hi!
@@ -246,7 +246,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./4-if_9_say_hi
+    camilo@home-laptop$ ./4-if_9_say_hi
     Best School
     Best School
     Best School
@@ -258,14 +258,14 @@ Example:
     Best School
     Hi
     Best School
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `4-if_9_say_hi`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`4-if_9_say_hi`](4-if_9_say_hi)
 
 -----
 ### 5\. 4 bad luck, 8 is your chance
@@ -285,7 +285,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./5-4_bad_luck_8_is_your_chance
+    camilo@home-laptop$ ./5-4_bad_luck_8_is_your_chance
     Best School
     Best School
     Best School
@@ -296,7 +296,7 @@ Example:
     good luck
     Best School
     Best School
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 For the most curious:
@@ -306,9 +306,9 @@ For the most curious:
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `5-4_bad_luck_8_is_your_chance`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`5-4_bad_luck_8_is_your_chance`](5-4_bad_luck_8_is_your_chance)
 
 -----
 ### 6\. Superstitious numbers
@@ -328,7 +328,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./6-superstitious_numbers
+    camilo@home-laptop$ ./6-superstitious_numbers
     1
     2
     3
@@ -352,14 +352,14 @@ Example:
     18
     19
     20
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `6-superstitious_numbers`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`6-superstitious_numbers`](6-superstitious_numbers)
 
 -----
 ### 7\. Clock
@@ -377,7 +377,7 @@ Requirements:
 
 Note that in this example, we only display the first 70 lines using the `head` command.
 
-    sylvain@ubuntu$ ./7-clock | head -n 70
+    camilo@home-laptop$ ./7-clock | head -n 70
     Hour: 0
     1
     2
@@ -448,14 +448,14 @@ Note that in this example, we only display the first 70 lines using the `head` c
     7
     8
     9
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `7-clock`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`7-clock`](7-clock)
 
 -----
 ### 8\. For ls
@@ -475,13 +475,13 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ls
+    camilo@home-laptop$ ls
     100-read_and_cut              1-for_best_school         6-superstitious_numbers
     101-tell_the_story_of_passwd  2-while_best_school       7-clock
     102-lets_parse_apache_logs    3-until_best_school       8-for_ls
     103-dig_the-data              4-if_9_say_hi                  9-to_file_or_not_to_file
     10-fizzbuzz                   5-4_bad_luck_8_is_your_chance
-    sylvain@ubuntu$  ./8-for_ls
+    camilo@home-laptop$  ./8-for_ls
     read_and_cut
     tell_the_story_of_passwd
     lets_parse_apache_logs
@@ -496,14 +496,14 @@ Example:
     clock
     for_ls
     to_file_or_not_to_file
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `8-for_ls`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`8-for_ls`](8-for_ls)
 
 -----
 ### 9\. To file, or not to file
@@ -526,33 +526,33 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ file school
+    camilo@home-laptop$ file school
     school: cannot open `school' (No such file or directory)
-    sylvain@ubuntu$ ./9-to_file_or_not_to_file 
+    camilo@home-laptop$ ./9-to_file_or_not_to_file 
     school file does not exist
-    sylvain@ubuntu$ touch school
-    sylvain@ubuntu$ ./9-to_file_or_not_to_file 
+    camilo@home-laptop$ touch school
+    camilo@home-laptop$ ./9-to_file_or_not_to_file 
     school file exists
     school file is empty
     school is a regular file
-    sylvain@ubuntu$ echo 'betty' > school 
-    sylvain@ubuntu$ ./9-to_file_or_not_to_file 
+    camilo@home-laptop$ echo 'betty' > school 
+    camilo@home-laptop$ ./9-to_file_or_not_to_file 
     school file exists
     school file is not empty
     school is a regular file
-    sylvain@ubuntu$ rm school 
-    sylvain@ubuntu$ mkdir school
-    sylvain@ubuntu$ ./9-to_file_or_not_to_file 
+    camilo@home-laptop$ rm school 
+    camilo@home-laptop$ mkdir school
+    camilo@home-laptop$ ./9-to_file_or_not_to_file 
     school file exists
     school file is not empty
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `9-to_file_or_not_to_file`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`9-to_file_or_not_to_file`](9-to_file_or_not_to_file)
 
 -----
 ### 10\. FizzBuzz
@@ -571,7 +571,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./10-fizzbuzz | head -20
+    camilo@home-laptop$ ./10-fizzbuzz | head -20
     1
     2
     Fizz
@@ -592,14 +592,14 @@ Example:
     Fizz
     19
     Buzz
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `10-fizzbuzz`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`10-fizzbuzz`](10-fizzbuzz)
 
 -----
 ### 11\. Read and cut
@@ -622,7 +622,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ cat /etc/passwd
+    camilo@home-laptop$ cat /etc/passwd
     root:x:0:0:root:/root:/bin/bash
     daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
     bin:x:2:2:bin:/bin:/usr/sbin/nologin
@@ -653,7 +653,7 @@ Example:
     sylvain:98:99:Sylvain:/home/sylvain:/bin/bash
     puppet:x:108:114:Puppet configuration management daemon,,,:/var/lib/puppet:/bin/false
     ubuntu:x:1001:1001:Ubuntu:/home/ubuntu:/bin/bash
-    sylvain@ubuntu$ ./100-read_and_cut
+    camilo@home-laptop$ ./100-read_and_cut
     root:0:/root
     daemon:1:/usr/sbin
     bin:2:/bin
@@ -684,14 +684,14 @@ Example:
     sylvain:99:/bin/bash
     puppet:108:/var/lib/puppet
     ubuntu:1001:/home/ubuntu
-    sylvain@ubuntu$ 
+    camilo@home-laptop$ 
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `100-read_and_cut`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`100-read_and_cut`](100-read_and_cut)
 
 -----
 ### 12\. Tell the story of passwd
@@ -717,7 +717,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./101-tell_the_story_of_passwd
+    camilo@home-laptop$ ./101-tell_the_story_of_passwd
     The user root is part of the 0 gang, lives in /root and rides /bin/bash. 0's place is protected by the passcode x, more info about the user here: root
     The user daemon is part of the 1 gang, lives in /usr/sbin and rides /usr/sbin/nologin. 1's place is protected by the passcode x, more info about the user here: daemon
     The user bin is part of the 2 gang, lives in /bin and rides /usr/sbin/nologin. 2's place is protected by the passcode x, more info about the user here: bin
@@ -747,14 +747,14 @@ Example:
     The user statd is part of the 65534 gang, lives in /var/lib/nfs and rides /bin/false. 107's place is protected by the passcode x, more info about the user here: 
     The user puppet is part of the 114 gang, lives in /var/lib/puppet and rides /bin/false. 108's place is protected by the passcode x, more info about the user here: Puppet configuration management daemon,,,
     The user ubuntu is part of the 1001 gang, lives in /home/ubuntu and rides /bin/bash. 1001's place is protected by the passcode x, more info about the user here: Ubuntu
-    sylvain@ubuntu$
+    camilo@home-laptop$
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `101-tell_the_story_of_passwd`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`101-tell_the_story_of_passwd`](101-tell_the_story_of_passwd)
 
 -----
 ### 13\. Let's parse Apache logs
@@ -780,7 +780,7 @@ Requirement:
 *   You are not allowed to use `while`, `for`, `until` and `cut`
 *   Download and commit the [apache-access.log file](http://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/80/apache-access.log "apache-access.log file") along with your answers files
 
-    sylvain@ubuntu$ ./102-lets_parse_apache_logs | tail -n 10
+    camilo@home-laptop$ ./102-lets_parse_apache_logs | tail -n 10
     185.130.5.207 301
     185.130.5.207 301
     91.224.140.223 200
@@ -791,14 +791,14 @@ Requirement:
     198.58.99.82 304
     50.116.30.23 304
     209.133.111.211 200
-    sylvain@ubuntu$
+    camilo@home-laptop$
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `102-lets_parse_apache_logs`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`102-lets_parse_apache_logs`](102-lets_parse_apache_logs)
 
 -----
 ### 14\. Dig the data
@@ -821,7 +821,7 @@ Requirements:
 
 Example:
 
-    sylvain@ubuntu$ ./103-dig_the-data | head -n 10
+    camilo@home-laptop$ ./103-dig_the-data | head -n 10
         141 130.0.236.153 200
         140 62.210.250.66 200
         117 103.243.26.232 404
@@ -832,14 +832,14 @@ Example:
         41 167.114.156.198 200
         36 2.1.201.36 304
         36 195.154.172.53 200
-    sylvain@ubuntu$
+    camilo@home-laptop$
     
 
 **Repo:**
 
-*   GitHub repository: `holberton-system_engineering-devops`
-*   Directory: `0x04-loops_conditions_and_parsing`
-*   File: `103-dig_the-data`
+*   GitHub repository: [`holberton-system_engineering-devops`](https://github.com/jbocane6/holberton-system_engineering-devops)
+*   Directory: [`0x04-loops_conditions_and_parsing`](/0x04-loops_conditions_and_parsing)
+*   File: [`103-dig_the-data`](103-dig_the-data)
 
 -----
 Copyright © 2022 Holberton Inc, All rights reserved.
